@@ -1,0 +1,15 @@
+export const words = {
+    "Animals": ["Lion", "Tiger", "Elephant", "Giraffe", "Kangaroo", "Panda", "Shark", "Eagle", "Whale", "Koala"],
+    "Fruits": ["Apple", "Banana", "Orange", "Grapes", "Mango", "Pineapple", "Strawberry", "Peach", "Lemon", "Kiwi"],
+    "Colors": ["Red", "Blue", "Green", "Yellow", "Purple", "Orange", "Black", "White", "Pink", "Brown"],
+    "Countries": ["USA", "Canada", "Brazil", "France", "Germany", "Australia", "Japan", "India", "China", "Mexico"],
+    "Sports": ["Soccer", "Basketball", "Tennis", "Baseball", "Rugby", "Cricket", "Golf", "Swimming", "Cycling", "Boxing"],
+    "Food": ["Pizza", "Burger", "Pasta", "Sushi", "Steak", "Salad", "Tacos", "Fried Chicken", "Ice Cream", "Cake"],
+    "Vehicles": ["Car", "Bicycle", "Motorcycle", "Airplane", "Boat", "Bus", "Train", "Helicopter", "Truck", "Submarine"],
+    "Technology": ["Smartphone", "Laptop", "Tablet", "Smartwatch", "Drone", "Robot", "Internet", "Cloud", "AI", "VR"],
+    "Weather": ["Sunny", "Rainy", "Cloudy", "Windy", "Stormy", "Snowy", "Foggy", "Hail", "Thunder", "Lightning"],
+    "Music": ["Guitar", "Piano", "Drums", "Violin", "Flute", "Trumpet", "Saxophone", "Cello", "Drums", "Clarinet"],
+    "Movies": ["Action", "Drama", "Comedy", "Horror", "Sci-Fi", "Fantasy", "Romance", "Thriller", "Documentary", "Animated"],
+    "Nature": ["Mountain", "Forest", "River", "Ocean", "Desert", "Waterfall", "Lake", "Beach", "Canyon", "Island"],
+    "Occupations": ["Doctor", "Teacher", "Engineer", "Chef", "Artist", "Musician", "Scientist", "Pilot", "Writer", "Nurse"],
+}
